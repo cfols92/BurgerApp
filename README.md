@@ -1,2 +1,2 @@
 # BurgerApp
-Build a burger
+Dynamically build a burger by adding ingredients, then purchase it.
